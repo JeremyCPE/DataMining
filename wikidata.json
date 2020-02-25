@@ -1,0 +1,1108 @@
+{
+  "head" : {
+    "vars" : [ "languageLabel", "year" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plankalkül"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1942"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ENIAC coding system"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1943"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ENIAC Short Code"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1946"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Von Neumann and Goldstine graphing system"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1946"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ARC Assembly"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1947"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CPC Coding scheme"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1948"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Curry notation system"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1948"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Short Code"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1949"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "assembly language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1949"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "G-code"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1950"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Short Code"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1950"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birkbeck Assembler"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1950"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sort Merge Generator"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Superplan"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ALGAE"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intermediate Programming Language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Assembly Language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Boehm unnamed coding system"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Klammerausdrücke"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "OMNIBAC Symbolic Assembler"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stanislaus"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Whirlwind assembler"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rochester assembler"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1951"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "autocode"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1952"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A-0 System"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1952"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Editing Generator"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1952"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COMPOOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1952"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speedcoding"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1953"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "READ/PRINT"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1953"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fortran"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "autocode"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ARITH-MATIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MATH-MATIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laning and Zierler system"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MATRIX MATH"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1954"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "FLOW-MATIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Address programming language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BACAIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Freiburger Code"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sequentielle Formelübersetzung"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Internal Translator"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PRINT"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PACT"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1955"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Information Processing Language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1956"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "GEORGE"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1957"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COMTRAN"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1957"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UNICODE"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1957"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lisp"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1958"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ALGOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1958"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UNCOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1958"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TRAC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1959"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JOVIAL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1959"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COBOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1959"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MAD"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1959"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "FACT"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1959"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COBOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1960"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COBOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1960"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ALCOR"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1960"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SNOBOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1962"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TECO"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1962"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simula"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1962"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CORC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1962"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CPL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1963"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JOSS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1963"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TRAC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Report Program Generator"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BASIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "P′′"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speakeasy"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PL/I"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MARK IV"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MIMIC"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "COWSEL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1964"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "IBM RPG II"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1965"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TELCOMP"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1965"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Atlas Autocode"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1965"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Euler"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MUMPS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ISWIM"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ALGOL W"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BCPL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JOSS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coral 66"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1966"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hop"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MUMPS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BCPL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "XPL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Interlisp"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ABSYS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Space Programming Language"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1967"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Refal"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CICS"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "FOCAL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PILOT"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Analitik"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Logo"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MAPPER"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TREE-META"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "TTM"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    }, {
+      "languageLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DIBOL"
+      },
+      "year" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1968"
+      }
+    } ]
+  }
+}
