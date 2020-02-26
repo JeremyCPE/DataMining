@@ -164,11 +164,9 @@ from sklearn.cluster import KMeans
 #        break
 #    except ValueError:
 #        print("Saisie invalide")
-n = 4
+n = 6
 imgfile = Image.open("data/flower.jpg")
-
 numarray = numpy.array(imgfile.getdata(), numpy.uint8)
-
 clusters = KMeans(n_clusters = n)
 clusters.fit(numarray)
 npbins = numpy.arange(0, n+1)
@@ -177,6 +175,8 @@ histogram = numpy.histogram(clusters.labels_, bins=npbins)
 labels = numpy.unique(clusters.labels_)
 colors = []
 sizes = histogram[0]
+def rgb_to_hex(rgb):
+    return "#%02x%02x%02x" % rgb
 for i in range(n):
     color = rgb_to_hex(
         (math.ceil(clusters.cluster_centers_[i][0]), 
@@ -185,9 +185,7 @@ for i in range(n):
     colors.append(color)
 print(colors)
 plot.pie(sizes, labels=labels, colors=colors,shadow=True, startangle=140)
-plot.show()
-def rgb_to_hex(rgb):
-    return "#%02x%02x%02x" % rgb               
+plot.show()                        
 ```
 
 4. Do you have any interesting observations?
