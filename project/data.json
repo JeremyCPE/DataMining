@@ -1,205 +1,119 @@
 {
     "pictures":[
-       {
-          "name":"bieres_photo_art.jpg",
-          "tag":"",
-          "colors":[
-             "#433734",
-             "#e5e6e4",
-             "#64a8c3",
-             "#c69222"
-          ],
-          "intensity":[
-             32661,
-             131241,
-             170115,
-             39734
-          ],
-          "size":[
-             749,
-             499
-          ]
-       },
-       {
-          "name":"biere_tireuse.jpg",
-          "tag":"",
-          "colors":[
-             "#84573e",
-             "#2b1b16",
-             "#f4eade",
-             "#d29d6b"
-          ],
-          "intensity":[
-             29916,
-             45324,
-             26478,
-             33282
-          ],
-          "size":[
-             450,
-             300
-          ]
-       },
-       {
-          "name":"bierre_pression.jpg",
-          "tag":"",
-          "colors":[
-             "#6e381c",
-             "#e1bcac",
-             "#25120d",
-             "#bd7d4a"
-          ],
-          "intensity":[
-             278633,
-             439316,
-             466310,
-             255741
-          ],
-          "size":[
-             1600,
-             900
-          ]
-       },
-       {
-          "name":"bouteille_biere_coca.jpg",
-          "tag":"",
-          "colors":[
-             "#ad8d56",
-             "#1d1826",
-             "#7f4313",
-             "#f0ecd3"
-          ],
-          "intensity":[
-             9635,
-             20541,
-             17298,
-             4030
-          ],
-          "size":[
-             222,
-             232
-          ]
-       },
-       {
-          "name":"bouteille_biere_nature.jpg",
-          "tag":"",
-          "colors":[
-             "#f4f5e8",
-             "#6c7c53",
-             "#28371b",
-             "#b2b690"
-          ],
-          "intensity":[
-             105952,
-             154879,
-             128511,
-             122658
-          ],
-          "size":[
-             640,
-             800
-          ]
-       },
-       {
-          "name":"bouteille_biere_noel.jpg",
-          "tag":"",
-          "colors":[
-             "#682633",
-             "#0f090d",
-             "#baa5b9",
-             "#c92b3f"
-          ],
-          "intensity":[
-             101054,
-             291141,
-             92554,
-             55251
-          ],
-          "size":[
-             600,
-             900
-          ]
-       },
-       {
-          "name":"bouteille_celtia_bar.jpg",
-          "tag":"",
-          "colors":[
-             "#501a09",
-             "#ec9050",
-             "#8b3112",
-             "#1e0c03"
-          ],
-          "intensity":[
-             59569,
-             21021,
-             119052,
-             92678
-          ],
-          "size":[
-             406,
-             720
-          ]
-       },
-       {
-          "name":"bouteille_verte_celtia.png",
-          "tag":"",
-          "colors":[
-             "#906d2f",
-             "#e1e6d5",
-             "#2a2d0a",
-             "#b7cb26"
-          ],
-          "intensity":[
-             20441,
-             19361,
-             19866,
-             22844
-          ],
-          "size":[
-             216,
-             382
-          ]
-       },
-       {
-          "name":"cannette_biere.jpeg",
-          "tag":"",
-          "colors":[
-             "#382416",
-             "#ba845d",
-             "#f6ddb9",
-             "#875230"
-          ],
-          "intensity":[
-             643649,
-             509589,
-             94788,
-             671974
-          ],
-          "size":[
-             1200,
-             1600
-          ]
-       },
-       {
-          "name":"cocktail.jpg",
-          "tag":"",
-          "colors":[
-             "#2c1d1f",
-             "#927d98",
-             "#543a50",
-             "#ceb5b3"
-          ],
-          "intensity":[
-             645035,
-             159563,
-             282239,
-             61203
-          ],
-          "size":[
-             1080,
-             1063
-          ]
-       }
+        {
+            "name": "bieres_photo_art.jpg",
+            "tag": [
+                "bieres",
+                "photo",
+                "art"
+            ],
+            "color": "#99b2b1",
+            "intensity": 373751,
+            "size": [
+                749,
+                499
+            ]
+        },
+        {
+            "name": "biere_tireuse.jpg",
+            "tag": [
+                "bieres",
+                "tireuse"
+            ],
+            "color": "#8f715b",
+            "intensity": 135000,
+            "size": [
+                450,
+                300
+            ]
+        },
+        {
+            "name": "bierre_pression.jpg",
+            "tag": [
+                "bierre",
+                "pression"
+            ],
+            "color": "#88604b",
+            "intensity": 1440000,
+            "size": [
+                1600,
+                900
+            ]
+        },
+        {
+            "name": "bouteille_biere_coca.jpg",
+            "tag": [
+                "bouteille",
+                "biere",
+                "coca"
+            ],
+            "color": "#694d36",
+            "intensity": 51504,
+            "size": [
+                222,
+                232
+            ]
+        },
+        {
+            "name": "bouteille_biere_nature.jpg",
+            "tag": "",
+            "color": "#889172",
+            "intensity": 512000,
+            "size": [
+                640,
+                800
+            ]
+        },
+        {
+            "name": "bouteille_biere_noel.jpg",
+            "tag": "",
+            "color": "#502d37",
+            "intensity": 540000,
+            "size": [
+                600,
+                900
+            ]
+        },
+        {
+            "name": "bouteille_celtia_bar.jpg",
+            "tag": "",
+            "color": "#632710",
+            "intensity": 292320,
+            "size": [
+                406,
+                720
+            ]
+        },
+        {
+            "name": "bouteille_verte_celtia.png",
+            "tag": "",
+            "color": "#95944a",
+            "intensity": 82512,
+            "size": [
+                216,
+                382
+            ]
+        },
+        {
+            "name": "cannette_biere.jpeg",
+            "tag": "",
+            "color": "#7f573a",
+            "intensity": 1920000,
+            "size": [
+                1200,
+                1600
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "color": "#4c3944",
+            "intensity": 1148040,
+            "size": [
+                1080,
+                1063
+            ]
+        }
     ],
     "users":[
        {
