@@ -1,1 +1,222 @@
-{"pictures":[{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]},{"name": "cocktail.jpg", "tag": "", "colors": ["#2c1d1f", "#927c98", "#543a4f", "#ceb5b3"], "intensity": [644106, 159593, 282971, 61370], "size": [1080, 1063]}]"user":[{"username": "Roger", "favorites": [8, 2]}]}
+{
+    "pictures": [
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        },
+        {
+            "name": "cocktail.jpg",
+            "tag": "",
+            "colors": [
+                "#2c1d1f",
+                "#927c98",
+                "#543a4f",
+                "#ceb5b3"
+            ],
+            "intensity": [
+                644106,
+                159593,
+                282971,
+                61370
+            ],
+            "size": [
+                1080,
+                1063
+            ]
+        }
+    ],
+    "user": [
+        {
+            "username": "Roger",
+            "favorites": [
+                8,
+                2
+            ]
+        },
+        {
+            "username": "Robert",
+            "favorites": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}
