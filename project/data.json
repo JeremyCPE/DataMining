@@ -19,7 +19,7 @@
                 "bar",
                 "trinque"
             ],
-            "isSample": 0,
+            "isSample": 1,
             "color": "#7b5639",
             "intensity": 331008,
             "size": 40863
@@ -101,7 +101,7 @@
             "tag": [
                 "blonde",
                 "salon",
-                "degusation"
+                "degustation"
             ],
             "isSample": 0,
             "color": "#67594f",
@@ -172,7 +172,7 @@
             "name": "bouteille_exterieure_publicite.jpg",
             "tag": [
                 "bouteille",
-                "exterieure",
+                "exterieur",
                 "publicite"
             ],
             "isSample": 0,
@@ -496,7 +496,7 @@
             "name": "bouteille_publicite_degustation.jpg",
             "tag": [
                 "bouteille",
-                "publicite",
+                "montage",
                 "degustation"
             ],
             "isSample": 0,
@@ -737,7 +737,7 @@
             "tag": [
                 "pression",
                 "bar",
-                "degustatin"
+                "degustation"
             ],
             "isSample": 0,
             "color": "#88604b",
@@ -908,14 +908,20 @@
                 1,
                 2,
                 3,
-                4
+                4,
+                9,
+                17
             ]
         },
         {
             "username": "Roger",
             "favorites": [
                 8,
-                2
+                2,
+                4,
+                18,
+                10,
+                12
             ]
         }
     ]
